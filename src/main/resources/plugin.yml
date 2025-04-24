@@ -1,0 +1,5 @@
+name: basecore
+version: '1.0.0'
+main: de.t0bx.basecore.BaseAPI
+api-version: '1.21'
+authors: [ t0bx ]
