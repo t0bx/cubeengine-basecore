@@ -25,7 +25,7 @@ Developed by t0bx.
 
 ## Getting Started
 
-### 1. Build
+### 1. For Development
 This project uses Maven:
 ```xml
 <repository>
@@ -44,7 +44,7 @@ This project uses Maven:
 ```
 
 
-### 1. Configure Database
+### 2. After developing 
 - Edit the generated `database.json` in the plugin’s data folder:
 - Restart your server after editing.
 
